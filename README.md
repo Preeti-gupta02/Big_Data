@@ -13,12 +13,10 @@ Implement PCA and use two components that explain maximum variance. Implement lo
 ProblemSet 3
 Task 1
 Convert the features in a form that can be given as input to tensorflow library/functions
-
-In this task you will perform data augmentation. That is, pre-process the data to make the model more robust. Most common data augmentation techniques are rotation, flips and histogram equalization. You can choose an augmentation technique of your choice.
+In this task I will perform data augmentation. That is, pre-process the data to make the model more robust. Most common data augmentation techniques are rotation, flips and histogram equalization. You can choose an augmentation technique of your choice.
 
 Task 2
 Try to build a Neural Network model, train on the features and report the accuracy. Report your observations on the time taken on GPU and TPUs.
-
 Create a CNN based model with 5 hidden layers and 100 hidden units each layer.
 Create an LSTM based model with 2 hidden layers and 1024 hidden units in each layer.
 
